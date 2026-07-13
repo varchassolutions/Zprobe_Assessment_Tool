@@ -1,6 +1,7 @@
 # ZProbe — Impedance Scanning & Stability Assessment
 
-**Official releases of the ZProbe Assessment Tool by Varchas Solutions.**
+**Official releases of the ZProbe Assessment Tool by
+[Varchas Solutions](https://www.varchassolutions.com.au/).**
 
 This repository hosts the **release packages only** (no source). Download the
 latest `ZProbeApp_standalone_v<ver>.zip` from the
@@ -53,6 +54,6 @@ download against `SHA256SUMS.txt`.
 
 ## License / use
 
-© Varchas Solutions. Licensed material — use as agreed with Varchas
-Solutions. The compiled modules may not be reverse-engineered, modified or
-redistributed.
+© [Varchas Solutions](https://www.varchassolutions.com.au/). Licensed
+material — use as agreed with Varchas Solutions. The compiled modules may
+not be reverse-engineered, modified or redistributed.
