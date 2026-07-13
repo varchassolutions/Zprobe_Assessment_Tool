@@ -30,6 +30,16 @@ First start takes a few seconds (the embedded Python warms up).
   with state-space export), Excel / PDF reports, headless batch API,
   built-in self-update.
 
+## Try it in ten minutes — worked examples
+
+Download **`ZProbe_Examples.zip`** from the same release: three ready-to-open
+studies (a healthy IBR connection, a weak-grid ~38 Hz PLL oscillation you can
+diagnose and retune in the What-if tab, and a two-plant multi-port system
+with cross-coupling), plus a step-by-step guide (`EXAMPLES_GUIDE.pdf`, also
+downloadable separately) that walks every analysis tab and composition mode
+with verified expected results. Unzip, point the app's *Project root folder*
+at the folder, and follow the guide.
+
 ## Data it reads
 
 Point the sidebar's *Project root folder* at a folder of case folders, each
