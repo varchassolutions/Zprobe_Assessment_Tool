@@ -32,13 +32,17 @@ First start takes a few seconds (the embedded Python warms up).
 
 ## Try it in ten minutes — worked examples
 
-Download **`ZProbe_Examples.zip`** from the same release: three ready-to-open
-studies (a healthy IBR connection, a weak-grid ~38 Hz PLL oscillation you can
-diagnose and retune in the What-if tab, and a two-plant multi-port system
-with cross-coupling), plus a step-by-step guide (`EXAMPLES_GUIDE.pdf`, also
-downloadable separately) that walks every analysis tab and composition mode
-with verified expected results. Unzip, point the app's *Project root folder*
-at the folder, and follow the guide.
+Download
+[**`ZProbe_Examples.zip`**](https://github.com/varchassolutions/Zprobe_Assessment_Tool/releases/latest/download/ZProbe_Examples.zip):
+three ready-to-open studies (a healthy IBR connection, a weak-grid ~38 Hz
+PLL oscillation you can diagnose and retune in the What-if tab, and a
+two-plant multi-port system with cross-coupling), plus a step-by-step guide
+([`EXAMPLES_GUIDE.pdf`](https://github.com/varchassolutions/Zprobe_Assessment_Tool/releases/latest/download/EXAMPLES_GUIDE.pdf),
+also included in the zip) that walks every analysis tab and composition
+mode with verified expected results. Unzip, point the app's *Project root
+folder* at the folder, and follow the guide. The examples are regenerated
+and re-certified against every release, so these links always match the
+latest version.
 
 ## Data it reads
 
